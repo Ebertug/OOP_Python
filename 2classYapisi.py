@@ -11,5 +11,3 @@ print(ucus1.kod)
 print()           
 print(ucus2.havayolu)
 print(ucus2.kod)     
-
-print("deneme")
