@@ -48,10 +48,10 @@ class Quiz:
 
 q1 = Question("En güzel sarki?",["numb", "outlaws", "graveyard"],"numb")
 q2 = Question("En güzel renk?",["mavi", "sari", "turqo"],"turqo")
-q1 = Question("En güzel mevsim?",["sonbahar","kis","yaz"],"sonbahar")
-q2 = Question("En güzel renk?",["mavi", "sari", "turqo"],"turqo")
+q3 = Question("En güzel mevsim?",["sonbahar","kis","yaz"],"sonbahar")
+q4 = Question("En güzel renk?",["mavi", "sari", "turqo"],"turqo")
 
-questions = [q1,q2]
+questions = [q1,q2,q3,q4]
 quiz = Quiz(questions)
 
 
